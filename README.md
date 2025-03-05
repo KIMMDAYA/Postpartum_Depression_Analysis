@@ -67,10 +67,10 @@ Postpartum depression is often undiagnosed, leading to severe mental health chal
    - Convert columns to appropriate data types (e.g., Age as numeric, Timestamp as date/time).
 
 2. **Initial Visualization:**
- - Use slicers in Power BI to filter data by age group 
+ - I Used slicers in Power BI to filter data by age group 
 
 3. **Summary Statistics:**
-   - Calculate basic metrics such as counts, percentages, and averages (e.g., average age of respondents with specific symptoms).
+   - Calculated basic metrics such as counts, percentages, and averages (e.g., average age of respondents with specific symptoms).
   
 ## Dashboard
 - **Total Responses:** Displays the total number of participants in the survey.
@@ -98,7 +98,6 @@ Postpartum depression is often undiagnosed, leading to severe mental health chal
 - **Therapy and support groups** should target the **30-40 age group**, as they reported the most severe symptoms.
 - **Awareness programs** should focus on the emotional challenges of motherhood, particularly bonding difficulties.
 - **More accessible mental health resources** should be provided for postpartum mothers.
-
 - **Further Research:**  
   Further studies into the socio-economic factors and external stressors that might correlate with increased symptoms of postpartum depression should be encouraged.
 
